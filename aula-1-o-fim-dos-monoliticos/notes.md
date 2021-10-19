@@ -28,21 +28,39 @@
 
 * Regras de negócio espalhadas em toda a aplicação
 
+  * Queries SQL complexas (incluindo regras de negócio)
+
 ## Microsserviços
 
 ### Vantagens
 
-* Flexibilidade
+* Equipes autônomas
+
+* Baixo acoplamento
+
+* Independências
+
+  * entre serviços
+
+  * modelagem de dados
+
+* Agilidade de mudanças
 
 * Altamente disponíveis e escaláveis
+
+* Aumento da resiliência
 
 * Manutenibilidade
 
 * Isolamento a falhas
 
-* Modelagem de dados independentes
+* Melhor performance
 
-* Facilidade no controle de performance
+* Melhor testabilidade
+
+* Flexibilidade de stack tecnológica
+
+* Divisão da complexidade do negócio
 
 ### Desvantagens
 
